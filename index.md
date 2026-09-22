@@ -1,8 +1,9 @@
 # Information til deltagere i forskningsprojektet
-Velkommen til hjemmesiden for forskningsprojektet, *”Young children’s expression and meaning making of pa-rental loss within a family context: A family focus group study of bereaved families with young children.”*. På denne side kan du/I finde information om, hvordan Aarhus Universitet behandler jeres personoplysninger.
+Velkommen til hjemmesiden for forskningsprojektet, *”Young children’s expression and meaning making of parental loss within a family context: A family focus group study of bereaved families with young children”*. 
+På denne side kan du/I finde information om, hvordan Aarhus Universitet behandler jeres personoplysninger.
 
 ## Sådan behandler Aarhus Universitet dine personoplysninger
-I forbindelse med din og din families deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet.
+I forbindelse med din og din families deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan jeres personoplysninger vil blive behandlet.
 
 ## Den dataansvarlige
 Dataansvarlig for behandlingen af personoplysninger i forskningsprojektet er:
@@ -19,13 +20,15 @@ Databeskyttelsesrådgiver/DPO
 Mail: dpo@au.dk 
 
 ## Forskningsprojektets titel
-Young children’s expression and meaning making of pa-rental loss within a family context: A family focus group study of bereaved families with young children.
+Young children’s expression and meaning making of parental loss within a family context: A family focus group study of bereaved families with young children.
 
 ## Formålet med projektet og behandlingen af dine personoplysninger
-Tidligt forældretab er en af de mest belastende livsbegivenheder små børn kan opleve. Alligevel ved vi meget lidt om, hvordan små børn selv beskriver og udtrykker sorg efter at have mistet en forælder. Formålet med projektet er at skabe større viden om, hvordan børn i alderen 3-6 år oplever og håndterer tabet af en forælder, og hvordan familien sammen taler om og lever med sorgen i hverdagen. Gennem samtaler med efterladte familier ønsker vi at få en bedre forståelse af små børns perspektiver og familiens betydning i tiden efter et dødsfald. Denne viden kan bidrage til at forbedre støtten til børn og familier, der oplever tab af en forælder.
+Tidligt forældretab er en af de mest belastende livsbegivenheder, små børn kan opleve. Alligevel ved vi meget lidt om, hvordan små børn selv beskriver og udtrykker sorg efter at have mistet en forælder. Formålet med projektet er at skabe større viden om, hvordan børn i alderen 3-6 år oplever og håndterer tabet af en forælder, og hvordan familien sammen taler om og lever med sorgen i hverdagen. Gennem samtaler med efterladte familier ønsker jeg at få en bedre forståelse af små børns perspektiver og familiens betydning i tiden efter et dødsfald. Denne viden kan bidrage til at forbedre støtten til børn og familier, der oplever tab af en forælder.
 
 ## Hvilke personoplysninger behandles i projektet?
-Alle informationer vi indhenter omkring dig og dine børn, behandles i projektet og er nødvendige for projektets formål. I projektet behandles følgende oplysninger om dig som deltager:
+Alle informationer vi indhenter omkring dig og dine børn, behandles i projektet og er nødvendige for projektets formål. 
+
+I projektet behandles følgende oplysninger om dig som deltager:
 + Navn
 + Uddannelsesoplysninger
 + Beskæftigelsesoplysninger
@@ -35,6 +38,7 @@ Alle informationer vi indhenter omkring dig og dine børn, behandles i projektet
 + Adresse
 + Helbredsoplysninger
 + Øvrige personoplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personoplysninger.
+
 I projektet behandles følgende oplysninger om dit barn/dine børn som deltager(e):
 + Navn
 + Alder

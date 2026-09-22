@@ -54,7 +54,7 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 Video-optagelserne og transskriberingerne fra fokusgruppeinterviews vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2029, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger bliver sløret inden de opbevares. Når dine personoplysninger ikke længere er nødvendige for behandlingen, vil de blive anonymiseret, overført til Rigsarkivet eller slettet.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
-Dine personoplysninger vil gemmes i en database med henblik på brug i nye forskningsprojekter efter projektets afslutning. De vil ligeledes indgå i publikationer i et videnskabeligt tidsskrift i pseudonymiseret form , og kunne anvendes i forbindelse med anden offentliggørelse, herunder formidling og kollegial sparring samt i undervisning, projekter eller afhandlinger på Aarhus Universitet i pseudonymiseret form. Dine personoplysninger vil kunne videregives til en ny dataansvarlig, hvis den projektansvarlig får ansættelse på en anden dansk forskningsinstitution. I så fald kan der ske videregivelse til brug for forskningen inden for det anførte formål.
+Dine personoplysninger vil gemmes i en database med henblik på brug i nye forskningsprojekter efter projektets afslutning. De vil ligeledes indgå i publikationer i et videnskabeligt tidsskrift i pseudonymiseret form, og kunne anvendes i forbindelse med anden offentliggørelse, herunder formidling og kollegial sparring samt i undervisning, projekter eller afhandlinger på Aarhus Universitet i pseudonymiseret form. Dine personoplysninger vil kunne videregives til en ny dataansvarlig, hvis den projektansvarlig får ansættelse på en anden dansk forskningsinstitution. I så fald kan der ske videregivelse til brug for forskningen inden for det anførte formål.
 
 Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
 
@@ -68,9 +68,7 @@ Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efte
 
 Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine personoplysninger.
 
-+ Artikel 6, stk. 1, litra e, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig uden dit samtykke, da forskningsprojektet er en opgave i samfundets interesse, og det er nødvendigt at behandle personoplysninger for at gennemføre forskningsprojektet.
-
-+ Artikel 6, stk. 1, litra e og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle dine følsomme personoplysninger og eventuelt oplysninger om strafbare forhold til videnskabelige forskningsformål uden dit samtykke.
++ Dine data behandles efter Artikel 6, stk. 1, litra a) i datebskyttelsesloven, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig på baggrund af dit samtykke.
 
 + Databeskyttelseslovens § 11, stk. 1, der giver Aarhus Universitet ret til at behandle dit CPR-nummer med henblik på entydig identifikation. 
 

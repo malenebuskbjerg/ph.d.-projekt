@@ -93,6 +93,8 @@ Datatilsynet
 Carl Jacobsens Vej 35
 2500 Valby
 
+ ![Billede af Aarhus BSS logo](logo.png)
+
 [aujr]: https://psy.au.dk/sorgforskning/medlemmer/katrine-komischke/malene-hoffmann-buskbjerg
 [auSDU]: https://escience.sdu.dk/index.php/ucloud/
 

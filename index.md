@@ -69,7 +69,7 @@ Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efte
 
 Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine personoplysninger.
 
-+ Dine data behandles efter Artikel 6, stk. 1, litra a) i databskyttelsesloven, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig på baggrund af dit samtykke.
++ Dine data behandles efter Artikel 6, stk. 1, litra a) i databeskyttelsesloven, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig på baggrund af dit samtykke.
 
 + Databeskyttelseslovens § 11, stk. 1, der giver Aarhus Universitet ret til at behandle dit CPR-nummer med henblik på entydig identifikation. 
 

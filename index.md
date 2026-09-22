@@ -1,5 +1,6 @@
 # Information til deltagere i forskningsprojektet
 Velkommen til hjemmesiden for forskningsprojektet, *”Young children’s expression and meaning making of parental loss within a family context: A family focus group study of bereaved families with young children”*. 
+
 På denne side kan du/I finde information om, hvordan Aarhus Universitet behandler jeres personoplysninger.
 
 ## Sådan behandler Aarhus Universitet dine personoplysninger

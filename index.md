@@ -59,19 +59,18 @@ Dine personoplysninger vil gemmes i en database med henblik på brug i nye forsk
 
 Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
 
-Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
-+ [Whisper Transsciption app, Syddansk Universitet][auSDU], Campusvej 55, 5230 Odense M, CVR-nummer 29283958
-
 ## Personoplysninger er indhentet fra
 + Fra dig og dit barn/dine børn
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
-Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine personoplysninger.
+Behandling af personoplysninger kræver, at der er et behandlingsgrundlag i databeskyttelsesreglerne eller anden lovgivning. Vi behandler dine personoplysninger på baggrund af forskningshjemlen.
 
-+ Dine data behandles efter Artikel 6, stk. 1, litra a) i databeskyttelsesloven, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig på baggrund af dit samtykke.
++ Dine data behandles efter Artikel 6, stk. 1, litra a) i databeskyttelsesloven og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle følsomme persondata til videnskabelige forskningsformål uden samtykke..
 
-+ Databeskyttelseslovens § 11, stk. 1, der giver Aarhus Universitet ret til at behandle dit CPR-nummer med henblik på entydig identifikation.
++ Behandlingen af CPR-numre sker på baggrund af databeskyttelseslovens § 11, stk. 1.
+
+Deltagere i projektet vil i forbindelse med den skriftlige og mundtlige information om projektet blive orienteret om behandlingen af persondata i overensstemmelse med underretningspligten i GDPR Artikel 13 og 14 forud for indhentning af informeret samtykke.
 
 ## Dine rettigheder efter databeskyttelsesforordningen
 Du har følgende rettigheder, hvis Aarhus Universitet behandler dine personoplysninger som et led i et forskningsprojekt, der er i samfundets interesse. 

@@ -47,10 +47,6 @@ I projektet behandles følgende oplysninger om dit barn/dine børn som deltager(
 + Helbredsoplysninger
 + Øvrige personoplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personoplysninger.
 
-## Anvendelsen af automatiske behandlinger (profilering)
-Profilering er en automatisk behandling af dine personoplysninger, fx behandlinger, der er bestemt af en algoritme. Her kan du se, om der indgår automatiske behandlinger af dine personoplysninger.
-+ Der anvendes *ikke* automatisk behandling af personoplysninger
-
 ## Hvor længe og hvordan opbevares dine personoplysninger?
 Video-optagelserne transskriberinger og feltnoter fra fokusgruppeinterviews vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2029, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger bliver pseudonymiseret, inden de opbevares. Det betyder, at dit/dine børns navn og andre oplysninger, der direkte kan identificere dig/dine børn, fjernes, så andre ikke ville kunne genkende jer eller jeres udtalelser i de publikationer der kan komme ud om projektet. Når dine personoplysninger ikke længere er nødvendige for behandlingen, vil de blive anonymiseret, overført til Rigsarkivet eller slettet.
 
@@ -66,9 +62,7 @@ Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregiv
 
 Behandling af personoplysninger kræver, at der er et behandlingsgrundlag i databeskyttelsesreglerne eller anden lovgivning. Vi behandler dine personoplysninger på baggrund af forskningshjemlen.
 
-+ Dine data behandles efter Artikel 6, stk. 1, litra a) i databeskyttelsesloven og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle følsomme persondata til videnskabelige forskningsformål uden samtykke..
-
-+ Behandlingen af CPR-numre sker på baggrund af databeskyttelseslovens § 11, stk. 1.
++ Dine data behandles efter Artikel 6, stk. 1, litra a) i databeskyttelsesloven og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle følsomme persondata til videnskabelige forskningsformål uden samtykke.
 
 Deltagere i projektet vil i forbindelse med den skriftlige og mundtlige information om projektet blive orienteret om behandlingen af persondata i overensstemmelse med underretningspligten i GDPR Artikel 13 og 14 forud for indhentning af informeret samtykke.
 
